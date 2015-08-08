@@ -30,7 +30,7 @@ Derivitive Work
 If you are a local PyLadies leader, you are free to adapt the logo to your location.  Some examples can be found on our [locations page][3] as well as in the [locations][6] directory.
 
 
-[0]: https://github.com/pyladies/pyladies-assets/tree/master/TRADEMARK.md
+[0]: https://github.com/pyladies/pyladies-assets/blob/master/TRADEMARK.md
 [1]: https://www.python.org/psf
 [2]: mailto:info@pyladies.com
 [3]: http://www.pyladies.com/locations
