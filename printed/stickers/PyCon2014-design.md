@@ -19,7 +19,7 @@ Final Size: 2.5 inches x 1 inch
 Artwork:
 * [PyLadies Wordmark - Standard - Black][1]
 
-[0]: https://github.com/pyladies/pyladies-assets/master/geek/ai/pylady_geek_full_standard.ai
-[1]: https://github.com/pyladies/pyladies-assets/master/wordmark/png/pyladies_wordmark_standard_black.png
+[0]: https://github.com/pyladies/pyladies-assets/blob/master/geek/ai/pylady_geek_full_standard.ai
+[1]: https://github.com/pyladies/pyladies-assets/blob/master/wordmark/png/pyladies_wordmark_standard_black.png
 [6]: https://www.stickermule.com
 [7]: https://www.stickermule.com/user/1070441144/stickers
