@@ -21,7 +21,7 @@ The PyLady Geek logo can be found in the [geek][5] directory of this repository.
 T-Shirts & Other Merchandise
 ----------------------------
 
-PyLadies T-Shirts and other merchandise featuring the Python logo can be purchased at Cafepress (sales benefit the PyLadies organization). Making your own shirts is OK too, but please seek permission from the `PyLadies leadership <ask>`_ if you are planning to sell merchandise that shows the PyLadies logo.
+PyLadies T-Shirts and other merchandise featuring the Python logo can be purchased at Cafepress (sales benefit the PyLadies organization). Making your own shirts is OK too, but please seek permission from the [PyLadies leadership][2] if you are planning to sell merchandise that shows the PyLadies logo.
 
 
 Derivitive Work
@@ -30,7 +30,7 @@ Derivitive Work
 If you are a local PyLadies leader, you are free to adapt the logo to your location.  Some examples can be found on our [locations page][3] as well as in the [locations][6] directory.
 
 
-[0]: https://github.com/pyladies/pyladies-assets/blob/master/TRADEMARK.md
+[0]: https://github.com/pyladies/pyladies-assets/blob/master/TRADEMARK.rst
 [1]: https://www.python.org/psf
 [2]: mailto:info@pyladies.com
 [3]: http://www.pyladies.com/locations
