@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backingScale</key>
+	<real>1</real>
+	<key>bitmapSelectionFilename</key>
+	<string>bitmapSelection</string>
+	<key>mode</key>
+	<integer>0</integer>
+	<key>size</key>
+	<data>
+	NC10UHpTVFAQAAAAQKB2AAAAAABAjEAAAAAAAA==
+	</data>
+	<key>softness</key>
+	<real>0.0</real>
+	<key>timestamp</key>
+	<real>576164325.24135005</real>
+	<key>transform</key>
+	<data>
+	NC10UHNuclQwAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAABASgAAAAAA
+	AEBUAAAAAAAA
+	</data>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
